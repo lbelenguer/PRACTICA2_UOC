@@ -7,11 +7,11 @@ Esta práctica pertenece a la asignatura Tipología y ciclo de vida de los datos
 
 El repositorio se organiza en el archivo de Licencia, este fichero README.md y los directorios:
 
-/src Donde se encuentra el código python que implementa el análisis.
+* Practica2.py:  Donde se encuentra el código python que implementa el análisis.
 
-/doc Donde está la versión PDF de esta documentación.
+* Practica2.pdf: Donde está la versión PDF de esta documentación.
 
-/csv Ficheros CSV generados con el script.
+* winequality-red.csv: Ficheros CSV generados con el script.
 
 Miembros del equipo
 
